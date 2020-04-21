@@ -8,4 +8,4 @@
 
 1. Design
 2. Layout
-3. Other.. 
+3. Others 
