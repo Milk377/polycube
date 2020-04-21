@@ -7,5 +7,5 @@
 ![스크린샷 2020-04-21 오후 4 42 35](https://user-images.githubusercontent.com/37606666/79840442-e07e8880-83f0-11ea-98b7-938c8c803d68.png)
 
 1. Design
-2. Layout
+2. Layout (StackNavigation , Scroll View)
 3. Others 
