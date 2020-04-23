@@ -13,3 +13,5 @@
 
 # 4.23 Update
 
+<img width="799" alt="스크린샷 2020-04-23 오후 3 34 24" src="https://user-images.githubusercontent.com/37606666/80067233-7133a080-8578-11ea-80dc-5550d9d19dad.png">
+<img width="817" alt="스크린샷 2020-04-23 오후 3 36 16" src="https://user-images.githubusercontent.com/37606666/80067245-75f85480-8578-11ea-9ada-8cb79e18fe83.png">
